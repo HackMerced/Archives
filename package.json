@@ -1,0 +1,16 @@
+{
+  "name": "archive.hackmerced.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsx ./node_modules/.bin/eleventy --config=eleventy.config.ts",
+    "dev": "npm run build -- --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "tsx": "^4.19.2"
+  },
+  "author": "",
+  "license": "MIT"
+}

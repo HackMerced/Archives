@@ -1,0 +1,1 @@
+This is a compiled version of the Hackmerced II repository, with all backend functionality stripped.
