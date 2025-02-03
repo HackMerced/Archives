@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hackmerced-viii/static/css/main.1e2e239d.css",
+    "main.js": "/hackmerced-viii/static/js/main.6c21db6d.js",
+    "static/js/787.ffbc1b66.chunk.js": "/hackmerced-viii/static/js/787.ffbc1b66.chunk.js",
+    "static/media/landing.mp4": "/hackmerced-viii/static/media/landing.e3a34599cb3f4932fa9f.mp4",
+    "static/media/sponsor_logos.png": "/hackmerced-viii/static/media/sponsor_logos.f5604e72a297e51611b5.png",
+    "static/media/ag.svg": "/hackmerced-viii/static/media/ag.0016af05202e1c0ca00dc794a8708cfb.svg",
+    "static/media/instagram 1.svg": "/hackmerced-viii/static/media/instagram 1.346791de02362aab0a9d83f46ca3f069.svg",
+    "static/media/discord 1.svg": "/hackmerced-viii/static/media/discord 1.e490c06e1ab48c21429736e692ffdc7e.svg",
+    "static/media/bus.svg": "/hackmerced-viii/static/media/bus.f619bfbb72c5f1f364afda3d07583dd4.svg",
+    "static/media/health.svg": "/hackmerced-viii/static/media/health.991c289727b620c13a711019f2b0e920.svg",
+    "static/media/facebook 1.svg": "/hackmerced-viii/static/media/facebook 1.833b891d19d899d4214938b56701aa92.svg",
+    "index.html": "/hackmerced-viii/index.html",
+    "static/media/Vector 1.svg": "/hackmerced-viii/static/media/Vector 1.585114fdd7b0cd96479f326eeaccf89f.svg",
+    "static/media/arrow_right.svg": "/hackmerced-viii/static/media/arrow_right.797afb4bb4bfd0b5293bba1cdb904dd4.svg",
+    "main.1e2e239d.css.map": "/hackmerced-viii/static/css/main.1e2e239d.css.map",
+    "main.6c21db6d.js.map": "/hackmerced-viii/static/js/main.6c21db6d.js.map",
+    "787.ffbc1b66.chunk.js.map": "/hackmerced-viii/static/js/787.ffbc1b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e2e239d.css",
+    "static/js/main.6c21db6d.js"
+  ]
+}

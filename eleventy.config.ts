@@ -8,6 +8,8 @@ export default async function (eleventyConfig: UserConfig) {
   eleventyConfig.addPassthroughCopy("src/**/*.png");
   eleventyConfig.addPassthroughCopy("src/**/*.svg");
   eleventyConfig.addPassthroughCopy("src/**/*.webp");
+  eleventyConfig.addPassthroughCopy("src/**/*.mp4");
+  eleventyConfig.addPassthroughCopy("src/**/*.ico");
   eleventyConfig.addPassthroughCopy("src/**/*.woff");
   eleventyConfig.addPassthroughCopy("src/**/*.ttf");
   eleventyConfig.addPassthroughCopy("src/**/*.woff2");
