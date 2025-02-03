@@ -24,3 +24,4 @@ _site/
 test/stubs-layout-cache/_includes/*.js
 
 dist
+.DS_Store
