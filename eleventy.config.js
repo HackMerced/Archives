@@ -1,9 +1,4 @@
-import type { UserConfig } from "@11ty/eleventy";
-
-
-
-
-export default async function (eleventyConfig: UserConfig) {
+module.exports = async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/**/*.jpg");
   eleventyConfig.addPassthroughCopy("src/**/*.png");
   eleventyConfig.addPassthroughCopy("src/**/*.svg");
