@@ -12,3 +12,5 @@ To run the development server:
 ```bash
 npm run dev
 ```
+
+You can add `.md`, `.txt`, `.njk` pages and they will automatically be compiled to html!
