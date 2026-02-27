@@ -10,7 +10,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "eleventy": "^1.0.7",
-    "tsx": "^4.19.2"
+    "tsx": "^4.19.3"
   },
   "author": "",
   "license": "MIT"
